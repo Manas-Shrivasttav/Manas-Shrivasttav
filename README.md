@@ -2,17 +2,17 @@
 
 **Data Scientist in progress · Currently working as Senior Data Analyst**
 > Building at the intersection of Analytics, Machine Learning, and Generative AI.
-> Continuously learning by pursuing **Applied Data Science & AI at IIT Delhi** — specialising in ML, Agentic AI, and model deployment.
+> Continuously learning by pursuing **Applied Data Science & AI at IIT Delhi** - specialising in ML, Agentic AI, and model deployment.
 
 ---
 
 ## 🧠 What I Do
 
-I turn complex, messy data into decisions that matter — through ML, LLM-powered automation, and analytics systems built for scale.
+I turn complex, messy data into decisions that matter - through ML, LLM-powered automation, and analytics systems built for scale.
 
 **Currently** working as a digital analyst for one of the UK's top-2 omnichannel grocery retailers, delivering executive dashboards, digital performance analytics, and data governance frameworks across web and app platforms.
 
-I have also built end-to-end NLP and LLM pipelines — automating content workflows, building Sentence-BERT screening systems, and delivering ML-driven intelligence tools that cut manual effort.
+I have also built end-to-end NLP and LLM pipelines - automating content workflows, building Sentence-BERT screening systems, and delivering ML-driven intelligence tools that cut manual effort.
 
 ---
 
@@ -49,12 +49,12 @@ I have also built end-to-end NLP and LLM pipelines — automating content workfl
 
 ## 📚 Education & Credentials
 
-- 🏛️ **Applied Data Science & AI** — IIT Delhi CEP *(Mar 2026 – Present)*
+- 🏛️ **Applied Data Science & AI** - IIT Delhi CEP *(Mar 2026 – Present)*
   GenAI · Agentic AI · LLMs · Deep Learning · Model Deployment
-- 🎓 **MBA, Business Analytics** — Christ University, Bangalore *(2023)*
-- 📜 **Microsoft Azure Database Administrator (DP-300)** — 2026
-- 📜 **LangChain for LLM Application Development** — DeepLearning.AI, 2024
-- 📄 **Published Research** — Cybercrime clustering of Indian states, WeSchool International Conference *(ISBN: 978-93-91355-77-7)*
+- 🎓 **MBA, Business Analytics** - Christ University, Bangalore *(2023)*
+- 📜 **Microsoft Azure Database Administrator (DP-300)** - 2026
+- 📜 **LangChain for LLM Application Development** - DeepLearning.AI, 2024
+- 📄 **Published Research** - Cybercrime clustering of Indian states, WeSchool International Conference *(ISBN: 978-93-91355-77-7)*
 
 ---
 
